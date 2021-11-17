@@ -64,20 +64,11 @@ A seguinte tecnologia foi utilizada na construção do projeto:
 <br/>
 
 ### Autores
-<img src="assets/author.png" width="150" height="150">
 
-Matheus Bibiano Alves
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-bibiano-alves) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/matheus.bibiano1/)
-<br/>
-
-<img src="assets/author2.png" width="150" height="150">
-
-Matheus Henrique Cereda Monteiro
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-henrique-cereda-monteiro-448b78223/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/matheushenrique.ceredamonteiro)
-
+| Matheus Bibiano                                       | Matheus Cereda |
+|-------------------------------------------------------|--------------------------------------------------------|
+| <img src="assets/author.png" width="150" height="150">| <img src="assets/author2.png" width="150" height="150">|
+| [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-bibiano-alves)|[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-henrique-cereda-monteiro-448b78223/)|
 <br/>
 
 ### Licença
