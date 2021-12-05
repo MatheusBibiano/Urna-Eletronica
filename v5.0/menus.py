@@ -3,7 +3,7 @@ def menuUrna():
     Imprime o menu com as opções disponíveis no terminal.
     """
     MENU = """
-    +----------- Urna Eletrônica 4.0 -----------+
+    +----------- Urna Eletrônica 5.0 -----------+
     |                                           |
     | [1] Listar candidatos.                    |
     | [2] Iniciar votação.                      |

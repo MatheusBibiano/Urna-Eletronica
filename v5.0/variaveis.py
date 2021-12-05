@@ -1,4 +1,4 @@
-# Matriz que contém os candidatos à presidencia
+# Lista que contém os candidatos à presidencia
 # e seus respectivos dados.
 presidentes = [
     {
@@ -28,7 +28,7 @@ presidentes = [
     }
 ]
 
-# Matriz que contém os candidatos a governador
+# Lista que contém os candidatos a governador
 # e seus respectivos dados.
 governadores = [
     {
